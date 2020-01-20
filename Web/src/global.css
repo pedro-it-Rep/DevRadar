@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap'); /*Importação da fonte personalizada*/
+
+* {
+
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+/*Define o tamanho dos componetes */
+html, body, #root {
+
+    height: 100%;
+}
+
+/*Cor e fonte do corpo*/
+body {
+    background: #E5E6F0;
+    -webkit-font-smoothing: antialiased;
+}
+
+/*Aplica a fonte personalizada*/
+body, input, button {
+    font-family: Roboto, sans-serif;
+}
