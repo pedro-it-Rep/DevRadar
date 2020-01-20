@@ -10,7 +10,7 @@ Projeto desenvolvido durante a semana OmniStack 10 by <a href= "https://rocketse
 <h2> Instruções Para Instalação </h2>
 
 <h3>  NodeJS </h3>
-    <p> 1. Para instalar o <a href = "https://nodejs.org/en/" Node </a> é necessario: </p>
+    <p> 1. Para instalar o <a href = "https://nodejs.org/en/"> Node </a> é necessario: </p>
       <p> • Para windows: <a href="https://chocolatey.org/"> Chocolatey;</a> </p>
       <p> • Para macOS: <a href="https://brew.sh/"> HomeBrew; </a> </p>
       <p> • Para Ubuntu: Apenas seguir as instruções no site do Node; </p>
