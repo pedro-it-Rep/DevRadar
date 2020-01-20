@@ -17,7 +17,7 @@ Projeto desenvolvido durante a semana OmniStack 10 by <a href= "https://rocketse
       <p> • Para macOS: <a href="https://brew.sh/"> HomeBrew; </a> </p>
       <p> • Para Ubuntu: Apenas seguir as instruções no site do Yarn; </p>
     
-    <p> • OBS: Depois é só seguir as instruções que estão no site do Yarn. </p>
+ <p>• OBS: Depois é só seguir as instruções que estão no site do Yarn. </p>
 
 
 <p>OBS: Algumas funcionalidades usadas ao longo do projeto precisam ser baixadas para o bom funcionamento do proprio. </p>
