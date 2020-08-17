@@ -5,7 +5,7 @@ const http = require('http');
 
 
 //Banco de dados -> MongoDB(Não-Relacional) -- Permite manter o bando de dados na nuvem
-mongoose.connect('mongodb+srv://pedroit:teste@cluster0-r0vdq.mongodb.net/week10?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://***********************************', {
 
     useNewUrlParser: true,
     useUnifiedTopology: true,
